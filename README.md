@@ -8,11 +8,11 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=TH-ThiagoAlves&count_private=true&show_icons=true&theme=dark" />
   </a>
-  
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TH-ThiagoAlves&layout=compact&theme=dark" />
   </a>
-    
+  <br>
   <a href="https://git.io/streak-stats">
     <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=TH-ThiagoAlves&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
@@ -37,5 +37,5 @@
   <a href="https://www.linkedin.com/in/dev-thiago-alves/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
   <a href="mailto:thiagoavels1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
-
+<br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=TH-ThiagoAlves" alt="TH-ThiagoAlves" /></p>

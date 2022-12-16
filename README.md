@@ -40,3 +40,5 @@
 <br>
 
 <p align="center">________________ <img src="https://komarev.com/ghpvc/?username=TH-ThiagoAlves" alt="TH-ThiagoAlves" /> ________________</p>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

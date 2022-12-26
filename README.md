@@ -8,22 +8,6 @@
 aperfeiçoar minhas habilidades para me tornar cada vez mais um melhor programador. Atualmente estou procurando por uma oportunidade de trabalho e estudando o ultimo modulo na Trybe Ciências da Computação: Prisma ORM, NestJs e Design Patterns.
  </p>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=TH-ThiagoAlves&count_private=true&show_icons=true&theme=dark" />
-  </a>
-  <br>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TH-ThiagoAlves&layout=compact&theme=dark" />
-  </a>
-  <br>
-  <br>
-  <a href="https://git.io/streak-stats">
-    <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=TH-ThiagoAlves&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -44,5 +28,21 @@ aperfeiçoar minhas habilidades para me tornar cada vez mais um melhor programad
 <br>
 
 <p align="center">________________ <img src="https://komarev.com/ghpvc/?username=TH-ThiagoAlves" alt="TH-ThiagoAlves" /> ________________</p>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=TH-ThiagoAlves&count_private=true&show_icons=true&theme=dark" />
+  </a>
+  <br>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TH-ThiagoAlves&layout=compact&theme=dark" />
+  </a>
+  <br>
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=TH-ThiagoAlves&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</div>
 
  ![Snake animation](https://github.com/TH-ThiagoAlves/TH-ThiagoAlves/blob/output/github-contribution-grid-snake.svg)

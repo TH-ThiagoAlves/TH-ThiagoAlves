@@ -2,11 +2,11 @@
   <img src="https://avatars2.githubusercontent.com/u/55410300?s=200&v=4" alt="trybe" width="50"/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&background=FFFFFF00&center=true&vCenter=true&width=485&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Thiago+Alves%F0%9F%91%8B;Hello%2C+my+name+is+Thiago+Alves%F0%9F%91%8B" alt="Typing SVG" />
   </a>
+</h1>
   <p align="justify">
  Desde da infância eu já gostava de criar histórias e solucionar problemas, por esses motivos eu sempre estou me dedicando no que eu faço, tenho dificuldade em organização, mas procuro formas de melhorar e
 aperfeiçoar minhas habilidades para me tornar cada vez mais um melhor programador. Atualmente estou procurando por uma oportunidade de trabalho e estudando o ultimo modulo na Trybe Ciências da Computação: Prisma ORM, NestJs e Design Patterns.
  </p>
-</h1>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">

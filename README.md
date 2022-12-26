@@ -27,8 +27,6 @@ aperfeiçoar minhas habilidades para me tornar cada vez mais um melhor programad
 </div>
 <br>
 
-<p align="center">________________ <img src="https://komarev.com/ghpvc/?username=TH-ThiagoAlves" alt="TH-ThiagoAlves" /> ________________</p>
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=TH-ThiagoAlves&count_private=true&show_icons=true&theme=dark" />
@@ -44,5 +42,7 @@ aperfeiçoar minhas habilidades para me tornar cada vez mais um melhor programad
     <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=TH-ThiagoAlves&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </div>
+
+<p align="center">________________ <img src="https://komarev.com/ghpvc/?username=TH-ThiagoAlves" alt="TH-ThiagoAlves" /> ________________</p>
 
  ![Snake animation](https://github.com/TH-ThiagoAlves/TH-ThiagoAlves/blob/output/github-contribution-grid-snake.svg)

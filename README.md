@@ -45,6 +45,6 @@ aperfeiçoar minhas habilidades para me tornar cada vez mais um melhor programad
 
 ##
 
-<p align="center">________________ <img src="https://komarev.com/ghpvc/?username=TH-ThiagoAlves" alt="TH-ThiagoAlves" /> ________________</p>
+<p align="center">═════════════════<img src="https://komarev.com/ghpvc/?username=TH-ThiagoAlves" alt="TH-ThiagoAlves" />═════════════════</p>
 
  ![Snake animation](https://github.com/TH-ThiagoAlves/TH-ThiagoAlves/blob/output/github-contribution-grid-snake.svg)

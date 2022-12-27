@@ -5,7 +5,7 @@
 </h1>
   <p align="justify">
  Desde da infância eu já gostava de criar histórias e solucionar problemas, por esses motivos eu sempre estou me dedicando no que eu faço, tenho dificuldade em organização, mas procuro formas de melhorar e
-aperfeiçoar minhas habilidades para me tornar cada vez mais um melhor programador. Atualmente estou procurando por uma oportunidade de trabalho e estudando o ultimo modulo na Trybe Ciências da Computação: Prisma ORM, NestJs e Design Patterns.
+aperfeiçoar minhas habilidades para me tornar cada vez mais um melhor programador. Atualmente estou procurando por uma oportunidade de trabalho e estudando o ultimo modulo na Trybe Ciências da Computação: Python, Prisma ORM, NestJs e Design Patterns.
  </p>
 
 <div style="display: inline_block"><br>

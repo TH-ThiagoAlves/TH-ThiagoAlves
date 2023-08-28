@@ -39,9 +39,6 @@ aperfeiçoar minhas habilidades para me tornar cada vez mais um melhor programad
   <a href="https://github.com/TH-ThiagoAlves">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TH-ThiagoAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/TH-ThiagoAlves">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TH-ThiagoAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
   <br>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
